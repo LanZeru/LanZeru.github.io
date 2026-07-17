@@ -20,9 +20,28 @@ Research Interests
 Publications
 =====
 <font color=Grey>* means Corresponding Authors</font>
+2026:
+-----
 - [DAC 2026] **PMU-Faker: The Apparently Harmless Performance Monitoring Unit Events are Actually Harmful**
   - **Zeru Lan**, Pengfei Qiu<sup>*</sup>, Yaxuan Zhao, Ziyan Huang, Zhihao Zhang, Jiayi Guo, Chunlu Wang, Dongsheng Wang, Gang Qu.
   - Design Automation Conference (CCF-A)
+- [DAC 2026] **Unveiling the Security Risks Driven by the Hardware Interrupts**
+  - Zhihao Zhang, Pengfei Qiu, Zhouyang Li, Yaxuan Zhao, **Zeru Lan**, Jiliang Zhang, Chunlu Wang, Gang Qu, Dongsheng Wang.
+  - Design Automation Conference (CCF-A) 
+
+2025:
+-----
+- **A Survey of Processor Hardware Vulnerability**
+  - **Zeru Lan**, Pengfei Qiu<sup>*</sup>, Chunlu Wang, Yaxuan Zhao, Yu Jin, Zhihao Zhang, Dongsheng Wang.
+  - Journal of Electronics & Information Technology (CCF-T1, 领军计划)
+  - <span style="color:#c0392b;font-size:20px;"><strong>🏆 Outstanding Recommended Paper</strong></span>
+- **A Novel Transient Execution Attack Exploiting Loop Prediction Mechanisms**
+  - Jiayi Guo, Pengfei Qiu, Jie Yuan, **Zeru Lan**, Chunlu Wang, Jiliang Zhang, Dongsheng Wang.
+  - Journal of Electronics & Information Technology (CCF-T1, 领军计划)
+
+
+2024:
+-----
 - [AsianHOST 2024] **AutoGuard: A Secure Implementation of the  Conditional Branch Instruction**
   - **Zeru Lan**, Chunlu Wang, Pengfei Qiu<sup>*</sup>, Yu Jin, Yihao Yang, Dongsheng Wang, Gang Qu.
   - Asian Hardware Oriented Security and Trust Symposium
