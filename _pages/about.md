@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 I am currently pursuing the Ph.D. degree at <a href="https://www.bupt.edu.cn" style="text-decoration:none;">Beijing University of Posts and Telecommunications</a>, supervised by Assoc. Prof. Pengfei Qiu. My research interests mainly focus on microarchitecture security, including hardware security and hardware-software co-design. At present, I am a visiting student at the <a href="" style="text-decoration:none;">Zhongguancun Laboratory</a>. 
-<a href="https://www.bupt.edu.cn" style="text-decoration:none;">Beijing University of Posts and Telecommunications</a>
 
 Research Interests
 =====
