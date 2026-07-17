@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 * Ph.D in Cyberspace Security, Beijing University of Posts and Telecommunications, 2028 (expected)
 * B.S. in Computer Science and Technology, Shandong University of Technology, 2023
 
