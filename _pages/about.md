@@ -27,7 +27,7 @@ Selected Publications
   - **Zeru Lan**, Pengfei Qiu<sup>*</sup>, Yaxuan Zhao, Ziyan Huang, Zhihao Zhang, Jiayi Guo, Chunlu Wang, Dongsheng Wang, Gang Qu.
   - Design Automation Conference (CCF-A)
 - [DAC 2026] **Unveiling the Security Risks Driven by the Hardware Interrupts**
-  - Zhihao Zhang, Pengfei Qiu, Zhouyang Li, Yaxuan Zhao, **Zeru Lan**, Jiliang Zhang, Chunlu Wang, Gang Qu, Dongsheng Wang.
+  - Zhihao Zhang, Pengfei Qiu<sup>*</sup>, Zhouyang Li, Yaxuan Zhao, **Zeru Lan**, Jiliang Zhang, Chunlu Wang, Gang Qu, Dongsheng Wang.
   - Design Automation Conference (CCF-A) 
 
 2025:
@@ -37,7 +37,7 @@ Selected Publications
   - Journal of Electronics & Information Technology (CCF-T1, 领军计划)
   - <span style="color:#c0392b;font-size:20px;"><strong>🏆 Outstanding Recommended Paper</strong></span>
 - **A Novel Transient Execution Attack Exploiting Loop Prediction Mechanisms**
-  - Jiayi Guo, Pengfei Qiu, Jie Yuan, **Zeru Lan**, Chunlu Wang, Jiliang Zhang, Dongsheng Wang.
+  - Jiayi Guo, Pengfei Qiu, Jie Yuan<sup>*</sup>, **Zeru Lan**, Chunlu Wang, Jiliang Zhang, Dongsheng Wang.
   - Journal of Electronics & Information Technology (CCF-T1, 领军计划)
 
 
