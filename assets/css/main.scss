@@ -38,18 +38,3 @@
     "layout/json_cv"
 ;
 
-@media screen and (min-width: 1024px) {
-  .page {
-    width: calc(100% - 220px);
-    padding-right: 0;
-  }
-
-  .sidebar {
-    width: 200px;
-  }
-}
-
-.page__footer {
-  display: none !important;
-}
-
