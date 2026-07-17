@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=30pt>Zeru Lan (蓝泽如)</font>
+Zeru Lan (蓝泽如)
+=====
 - Ph.D. Student in the <a href="https://www.bupt.edu.cn" style="text-decoration:none;">Beijing University of Posts and Telecommunications</a>, supervised by Assoc. Prof. <a href="https://scss.bupt.edu.cn/info/1063/4710.htm" style="text-decoration:none;">Pengfei Qiu</a>.
 - Visiting Student in the <a href="" style="text-decoration:none;">Zhongguancun Laboratory</a>, supervised by Assoc. Prof. <a href="https://scss.bupt.edu.cn/info/1063/4710.htm" style="text-decoration:none;">Pengfei Qiu</a> and <a href="https://ly-dora.github.io" style="text-decoration:none;">Yuan Li</a>. 
 
