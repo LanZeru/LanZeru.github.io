@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Zeru Lan (蓝泽如)"
 author_profile: true
