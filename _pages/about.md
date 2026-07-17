@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Zeru Lan (蓝泽如)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Zeru Lan (蓝泽如)
-=====
+
 - Ph.D. Student in the <a href="https://www.bupt.edu.cn" style="text-decoration:none;">Beijing University of Posts and Telecommunications</a>, supervised by Assoc. Prof. <a href="https://scss.bupt.edu.cn/info/1063/4710.htm" style="text-decoration:none;">Pengfei Qiu</a>.
 - Visiting Student in the <a href="" style="text-decoration:none;">Zhongguancun Laboratory</a>, supervised by Assoc. Prof. <a href="https://scss.bupt.edu.cn/info/1063/4710.htm" style="text-decoration:none;">Pengfei Qiu</a> and <a href="https://ly-dora.github.io" style="text-decoration:none;">Yuan Li</a>. 
 
@@ -20,6 +19,7 @@ Research Interests
 Publications
 =====
 <font color=Grey>* means Corresponding Authors</font>
+
 2026:
 -----
 - [DAC 2026] **PMU-Faker: The Apparently Harmless Performance Monitoring Unit Events are Actually Harmful**
