@@ -11,13 +11,11 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-Research Interests
-======
+## Research Interests
 Hardware Security; Microarchitecture Security; Hardware-Software Co-Design.
 
-Publications
-======
-<div style="color:#888;">~~~~~~</div>
+## Publications
+<div class="wavy-line"></div>
 <font color=Grey>* means Corresponding Authors</font>
 - [DAC 2026] **PMU-Faker: The Apparently Harmless Performance Monitoring Unit Events are Actually Harmful**
   - **Zeru Lan**, Pengfei Qiu<sup>*</sup>, Yaxuan Zhao, Ziyan Huang, Zhihao Zhang, Jiayi Guo, Chunlu Wang, Dongsheng Wang, Gang Qu.
